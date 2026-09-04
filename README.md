@@ -4,7 +4,7 @@ Script en PowerShell diseñado para automatizar el diagnóstico rápido de postu
 
 ---
 
-🚀 Características del Script
+Características del Script
 
 * **Auditoría de Red:** Identificación rápida de direccionamiento IPv4.
 * **Control de Firewall:** Verificación del estado de los perfiles Domain, Private y Public.
