@@ -20,4 +20,6 @@ Script en PowerShell diseñado para automatizar el diagnóstico rápido de postu
 2. Habilitar la ejecución temporal de scripts (si es necesario):
    ```powershell
    Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process
+#Resultado de Ejecución :
 
+![Salida del Script de Auditoría](evidencia-script.png)
